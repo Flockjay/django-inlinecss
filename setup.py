@@ -18,9 +18,9 @@ from setuptools import setup
 NAME = 'django-inlinecss'
 SRC_DIR = 'django_inlinecss'
 DESCRIPTION = 'A Django app useful for inlining CSS (primarily for e-mails)'
-URL = 'https://github.com/roverdotcom/django-inlinecss'
-EMAIL = 'philip@rover.com'
-AUTHOR = 'Philip Kimmey'
+URL = 'https://github.com/Flockjay/django-inlinecss'
+EMAIL = 'sandip@flockjay.com'
+AUTHOR = 'Sandip Agarwal'
 REQUIRES_PYTHON = '>=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*, <3.11'
 VERSION = None
 
